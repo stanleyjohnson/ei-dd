@@ -10,3 +10,4 @@
     * getSearchItems : async Fn : (searchVal,     setData, setErrMsg) => null
     * maxNumSelections : number
 * Tabbing works correctly
+* Debounced fetching of items
